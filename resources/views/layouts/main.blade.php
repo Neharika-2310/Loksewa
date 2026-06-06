@@ -252,7 +252,7 @@
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6">
                     <a class="navbar-brand fw-bold text-white d-flex align-items-center mb-3 gap-2" href="{{ url('/') }}">
-                        <img src="/storage/logo1.png" alt="Lok Siksha" style="height: 45px; width: auto; filter: brightness(0) invert(1);">
+                        <img src="/storage/logo1.png" alt="Lok Siksha" style="height: 45px; width: 45px; object-fit: contain;" class="rounded-circle bg-white p-1">
                         <span class="fs-2 fw-extrabold text-white tracking-tight">Lok Siksha</span>
                     </a>
                     <p class="text-white-50 small mb-4">{{ $site_settings['site_description'] ?? 'Empowering students across Nepal to achieve their dreams of serving the nation.' }}</p>

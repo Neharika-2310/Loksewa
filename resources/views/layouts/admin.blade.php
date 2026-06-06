@@ -129,7 +129,7 @@
     <div class="sidebar d-flex flex-column">
         <div class="sidebar-brand">
             <h4 class="fw-bold d-flex align-items-center m-0 text-white">
-                <img src="/storage/logo1.png" alt="Logo" style="height: 35px; width: auto; filter: brightness(0) invert(1);" class="me-2">
+                <img src="/storage/logo1.png" alt="Logo" style="height: 35px; width: 35px; object-fit: contain;" class="me-2 rounded-circle bg-white p-1">
                 Lok <span class="text-accent-orange">Siksha</span>
             </h4>
         </div>

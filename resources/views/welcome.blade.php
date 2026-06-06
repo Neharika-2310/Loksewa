@@ -248,7 +248,7 @@
                 </div>
                 @empty
                 @foreach([
-                    ['name' => 'Ankit Yadav', 'text' => 'Lok Siksha has transformed the way I prepare for LokSewa. The mock tests are incredibly realistic!', 'role' => 'Section Officer Aspirant'],
+                    ['name' => 'Neharika Singh', 'text' => 'Lok Siksha has transformed the way I prepare for LokSewa. The mock tests are incredibly realistic!', 'role' => 'Section Officer Aspirant'],
                     ['name' => 'Priya Sharma', 'text' => 'The bilingual notes are a lifesaver. I can switch between Nepali and English easily.', 'role' => 'Nayab Subba Candidate'],
                     ['name' => 'Suman Thapa', 'text' => 'I passed my Kharidar exam thanks to the consistent practice on this platform. Highly recommended!', 'role' => 'Successful Candidate']
                 ] as $item)

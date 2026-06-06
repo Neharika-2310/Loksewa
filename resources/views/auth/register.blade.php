@@ -161,7 +161,7 @@
         <div class="visual-side">
             <div class="text-center mb-5">
                 <a href="{{ url('/') }}" class="text-decoration-none text-white d-inline-flex align-items-center gap-3 mb-5">
-                    <img src="/storage/logo1.png" alt="Logo" style="height: 50px; width: auto; filter: brightness(0) invert(1);">
+                    <img src="/storage/logo1.png" alt="Logo" style="height: 50px; width: 50px; object-fit: contain;" class="rounded-circle bg-white p-1">
                     <h2 class="fw-bold m-0">{{ $site_settings['site_name'] ?? 'Lok Siksha' }}</h2>
                 </a>
             </div>
